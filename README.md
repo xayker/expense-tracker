@@ -14,7 +14,7 @@ A simple desktop application to track personal expenses with real-time currency 
     ```
 2. Install dependencies
    ```
-          pip install requests
+    pip install requests
    ```
 3. Run the app
     ```
